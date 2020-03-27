@@ -8,4 +8,4 @@
 4. What data does a Node hold in a doubly Linked List?
 - It holds the same data it would hold in any other list. However, it can move to both the previous and the next node. Whereas nodes in a singly linked list can only move to the next node.
 5. What would you use to implement a Linked List data type? (object, function, class, variable…?)
-- After some googles it looks like linked lists are implemented via classes! 
+- After some googling it looks like linked lists are implemented via classes! 
