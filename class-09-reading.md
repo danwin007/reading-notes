@@ -6,3 +6,4 @@
 - A reference tells a param to look into a different schema for its value. I can't really tell what a virtual join does. 
 4. What do localField and foreignField mean?
 - localField is the source and it gets its value by copying from the target, foreignField? I do not know if that is correct.
+
