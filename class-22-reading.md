@@ -4,3 +4,4 @@
 - Full mounting allows you render the entire component as well as any children components. Shallow mounting minimizes the render of any imported components, and instead focuses on fully rendering the current component only.
 3. What does npm run build do?
 - The `npm run build` command creates a "build" of your application. It takes all your similar file types (CSS, JS) and smooshes all the modularized files into a single file of the appropriate type. This helps minimize load times for sites that expect to scale up for large userbases.
+ 
