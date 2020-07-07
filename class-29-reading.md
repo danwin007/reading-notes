@@ -6,3 +6,4 @@
 * A reference to a reducer as well as stateful variables. 
 4. Why do we need to copy the state in a reducer?
 * Because a reducer takes in the current state and then modifies that state. So making a copy allows a way to do this cleanly.
+
