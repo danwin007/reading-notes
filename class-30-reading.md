@@ -44,3 +44,13 @@
   - numbers are called weights
   - when showing a weighted graph in an adjacency matrix, you show a connection by setting the element to rep the weight between the two paths, with `0` if there isn't a connection
   - with adjacency lists, you must include *both* the weight and the name of the adjacent vertex
+
+### Traversals
+:(
+
+### Real World Uses of Graphs
+* GPS and mapping
+* Driving directions
+* Social networks
+* Airline traffic
+* Product suggestions
